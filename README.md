@@ -7,6 +7,8 @@ face:https://github.com/patrikhuber/4dface.git
 skeleton：https://github.com/Myzhencai/openpose.git
 keypoint：https://github.com/timctho/VNect-tensorflow.git
 render：https://team.inria.fr/perception/projects/mixcam-project/
+according to the paper we surf the internet and find some matirial that can almost make the paper come to real 
+please refer the reference doc for it.
 
 
 ### Here are some links show cool use of the code
