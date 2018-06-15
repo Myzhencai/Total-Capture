@@ -12,9 +12,11 @@ please refer the reference doc for it.
 
 
 ### Here are some links show cool use of the code
-https://www.4dviews.com
-http://stitch.is.tue.mpg.de/overview
-http://mano.is.tue.mpg.de/downloads
+#https://www.4dviews.com
+
+#http://stitch.is.tue.mpg.de/overview
+
+#http://mano.is.tue.mpg.de/downloads
 
 
 Do not be upsad , I just provide the source the imagine belongs to you ,amigo.Have fun ,keep legal to license :-).
