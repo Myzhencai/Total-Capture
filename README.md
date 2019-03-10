@@ -1,7 +1,7 @@
 # Total-Capture
 some source code link for the paper:Total Capture: A 3D Deformation Model for  Tracking Faces, Hands, and Bodies
 # model
-we have build up a model like smpl_hf in mpii ,we call it mafa (mano,flame,pca),the model shared is defective version ,you guys can make it better .The perfect version we have make it will be used for paper,we will share it later .The model is very simple as SMPL.Because the code for the model have license issue we just share the link to get the code and share the changes of the code for the model('mafainittestfinalallweight.pkl').
+we have build up a model like smpl_hf:https://ps.is.tuebingen.mpg.de/research_fields/virtual-humans ,we call it mafa (mano,flame,pca),the model shared is defective version ,you guys can make it better .The perfect version we have make it will be used for paper,we will share it later .The model is very simple as SMPL.Because the code for the model have license issue we just share the link to get the code and share the changes of the code for the model('mafainittestfinalallweight.pkl').
 
 ### Here are some links for the source code you need for the implemetion of the paper
 
